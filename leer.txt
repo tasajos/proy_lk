@@ -1,0 +1,7 @@
+*****************0
+REQUISITOS
+*****************
+1.aNDROID sTUDIO
+https://developer.android.com/studio/install.html
+2.- Git hub
+https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/
